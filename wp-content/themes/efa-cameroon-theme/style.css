@@ -1,0 +1,17 @@
+/*
+Theme Name: EFA Cameroon
+Theme URI: https://efacameroon.org
+Author: EFA Cameroon
+Author URI: https://efacameroon.org
+Description: Thème officiel d'EFA Cameroon – Education For Advancement. ONG nationale camerounaise engagée pour la résilience et le développement communautaire depuis 2014.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.5
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: efa-cameroon
+Tags: one-column, two-columns, right-sidebar, footer-widgets, custom-menu, featured-images, translation-ready
+*/
+
+/* Theme styles are in assets/css/custom.css — loaded via functions.php */

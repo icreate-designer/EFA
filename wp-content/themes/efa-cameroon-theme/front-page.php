@@ -142,7 +142,7 @@ get_header();
 
 
 <!-- ═══ PARTNERS ═══ -->
-<section class="py-5 bg-success-gradient">
+<!-- <section class="py-5 bg-success-gradient">
   <div class="container">
     <div class="row">
       <div class="col-md-4">
@@ -180,7 +180,7 @@ get_header();
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 
 <!-- ═══ DOMAINES D'INTERVENTION ═══ -->

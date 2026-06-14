@@ -55,7 +55,7 @@
 
       <!-- Brand / Logo -->
       <a class="navbar-brand" href="#">
-       <img src="<?php bloginfo('template_directory');?>/assets/img/efa.jpg" style="height:50px; width:auto;" alt="">
+       <img src="<?php bloginfo('template_directory');?>/assets/img/efa-cameroon-logo.png" style="height:50px; width:auto;" alt="">
       </a>
 
       <button class="navbar-toggler" type="button"

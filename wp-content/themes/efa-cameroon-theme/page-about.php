@@ -160,7 +160,7 @@ get_header();
     </div>
     <div class="row g-4">
       <?php
-      $team = new WP_Query( [ 'post_type' => 'efa_team', 'posts_per_page' => 8 ] );
+      $team = new WP_Query( [ 'post_type' => 'efa_team', 'posts_per_page' => 20 ] );
       if ( $team->have_posts() ) :
           while ( $team->have_posts() ) : $team->the_post();
               $role    = get_post_meta( get_the_ID(), '_efa_team_role', true );

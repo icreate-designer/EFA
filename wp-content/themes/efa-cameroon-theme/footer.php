@@ -28,7 +28,7 @@
         <!-- Brand -->
         <div class="col-lg-3">
           <div class="d-flex align-items-center gap-2 mb-2">
-            <span class="footer-brand-name"><?php bloginfo( 'name' ); ?></span>
+            <span class="navbar-brand"><img src="<?php bloginfo('template_directory');?>/assets/img/efa-cameroon-logo.png" alt="" style="height:100px; width:auto;"></span>
           </div>
           <p class="footer-brand-desc">
             <?php _e( 'Education For Advancement Cameroon – ONG nationale œuvrant pour la résilience et le développement communautaire depuis 2014.', 'efa-cameroon' ); ?>
